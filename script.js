@@ -2,7 +2,7 @@ const siteContent = {
   brandName: "Sandra Lim",
   heroTitle: "Perhaps you have always carried more wisdom than you realised.",
   heroSubtitle:
-    "This website is being shaped as a quiet home for philosophy, reflection, and work that helps people trust themselves more deeply.",
+    "This space is being shaped as a quiet home for philosophy, reflection, and work that helps people trust themselves more deeply.",
   philosophyTitle: "We do not need to be fixed.",
   philosophySubheading: "We need to be remembered.",
   philosophyText:
